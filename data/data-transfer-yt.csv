@@ -1,0 +1,9 @@
+Format;Session;Time (min);Transferred (MB);Resources (MB);Requests;URL
+YouTube 4K;First;1;331;348;111;https://www.youtube.com/watch?v=LXb3EKWsInQ
+YouTube 4K;First;2;550;567;120;https://www.youtube.com/watch?v=LXb3EKWsInQ
+YouTube 4K;Second;1;311;328;115;https://www.youtube.com/watch?v=LXb3EKWsInQ
+YouTube 4K;Second;2;530;548;126;https://www.youtube.com/watch?v=LXb3EKWsInQ
+YouTube 4K;Third;1;294;311;108;https://www.youtube.com/watch?v=LXb3EKWsInQ
+YouTube 4K;Third;2;513;531;115;https://www.youtube.com/watch?v=LXb3EKWsInQ
+YouTube 4K;Average;1;312;329;111;https://www.youtube.com/watch?v=LXb3EKWsInQ
+YouTube 4K;Average;2;531;549;120;https://www.youtube.com/watch?v=LXb3EKWsInQ
