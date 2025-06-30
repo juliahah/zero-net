@@ -11,5 +11,7 @@ The contents here are meant to:
 
 - 01-data-transfer.md — explain
 - 02-computer.enegry.md — explain
-- 03-video-typologies.md — explain
+- 03-zero-net-types — explain
+- 04-video-typology.md - explain
 - data/ — CSVs can be used for visualizations and calculations
+- images - 
